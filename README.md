@@ -5,7 +5,7 @@
         alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Description of your GIF">
+  <img src="https://dribbble.com/shots/5574718-Web-development-animation/attachments/10942166?mode=media" alt="Description of your GIF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kathirvel</h1>
