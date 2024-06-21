@@ -8,7 +8,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Description of your GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm Manojkumar K</h1>
+<h1 align="center">Hi 👋, I'm Kathirvel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-kumar056&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-kumar056" /> </p>
